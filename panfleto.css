@@ -1,0 +1,67 @@
+.card{
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    width: 350px;
+    height: 503px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 black;
+    
+}
+
+.container {
+    padding: 2px 16px;
+  }
+
+  
+h2, h4 { 
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4
+    {color: #e74c3c}
+
+p {
+    margin: 0;
+    
+    color: rgb(93, 92, 92);
+}
+
+.comments {
+        
+            position: relative;
+            
+            
+}
+
+.fa {
+    position: relative;
+    padding: 11px;
+    left: 0px;
+    top: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.border-radius {
+    border-radius: 50%;
+    width: 50px;
+    height:50px;
+    background-color: #e74c3c;
+    text-align: center;
+    line-height: 150px;
+    font-size: 20px;
+    color: white; */
