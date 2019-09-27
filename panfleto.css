@@ -10,29 +10,33 @@
     
 }
 
-.container {
+.contenido {
     padding: 2px 16px;
   }
 
+img { height: 51%;
+}
   
-h2, h4 { 
+h1, h3 { 
   font-family: 'Montserrat', sans-serif;
+  
 }
 
-h4
-    {color: #e74c3c}
+h3
+    {color: #e74c3c;
+        font-size: 15px;
+}
+    
 
 p {
-    margin: 0;
+    margin: 4px;
     
     color: rgb(93, 92, 92);
 }
 
 .comments {
         
-            position: relative;
-            
-            
+            position: relative;    
 }
 
 .fa {
@@ -42,26 +46,23 @@ p {
     top: 1px;
 }
 
+.iblock {
 
+    display: inline-block;
+    width: 39%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-/*
 .border-radius {
+    
+    position: absolute;
+    left: 263px;
+    bottom: 565px;
     border-radius: 50%;
-    width: 50px;
-    height:50px;
+    width: 80px;
+    height: 73px;
     background-color: #e74c3c;
     text-align: center;
-    line-height: 150px;
+    line-height: 73px;
     font-size: 20px;
-    color: white; */
+    color: white;
+ }
